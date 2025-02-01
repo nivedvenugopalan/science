@@ -16,6 +16,7 @@ Lot of useful links.
 ## Hyperbola
 - **Locus1**: [Geogebra Link](https://www.geogebra.org/classic/gdk2g3fp)
 - **Director Circle of Hyperbola**: [Geogebra Link](https://www.geogebra.org/classic/jpwuztn7)
+- **Inversion of Hyperbola about Auxiliary Circle**: [Geogebra Link](https://www.geogebra.org/classic/z3xegdn3)
 
 ## Complex Numbers
 - **Inversion of Circle (Superposition of Loci)**: [Geogebra Link](https://www.geogebra.org/classic/m6bsqhh2)
