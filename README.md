@@ -23,6 +23,7 @@ Lot of useful links.
 - **Inversion of Circle (Superposition of Loci)**: [Geogebra Link](https://www.geogebra.org/classic/m6bsqhh2)
 - **Complex Numbers from A to Z** (Titu and Dorin): [PDF Link](https://thunhan.wordpress.com/wp-content/uploads/2008/08/tituadreescu-complexnumbersfromatoz.pdf)
 - **Generating Curves using Complex Numbers**: [Geogebra Link](https://www.geogebra.org/classic/bqnn7t6r)
+- **Regular Polygons**: [Geogebra Link](https://geogebra.org/classic/v5uf89mk)
 
 ## Series
 - **Harmonic Series**: [Geogebra Link](https://www.geogebra.org/classic/jp8rr2b8)
