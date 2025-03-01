@@ -43,4 +43,5 @@ Lot of useful links.
 - **Normal Propagating Waves:** [Geogebra Link](https://www.geogebra.org/3d/k7spxkz3)
 - **Standing and Travelling Waves:** [Geogebra Link](https://www.geogebra.org/classic/txfu8kwu)
 - **nth Harmonic:** [Geogebra Link](https://www.geogebra.org/classic/ykmj86ce)
-- **Beats:** [Geogebra Link](https://www.geogebra.org/classic/jd6ejhrq)
+- **Beats 1:** [Geogebra Link](https://www.geogebra.org/classic/jd6ejhrq)
+- **Beats 2:** [Geogebra Link](https://geogebra.org/classic/uyymmuwc)
