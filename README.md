@@ -45,3 +45,6 @@ Lot of useful links.
 - **nth Harmonic:** [Geogebra Link](https://www.geogebra.org/classic/ykmj86ce)
 - **Beats 1:** [Geogebra Link](https://www.geogebra.org/classic/jd6ejhrq)
 - **Beats 2:** [Geogebra Link](https://geogebra.org/classic/uyymmuwc)
+
+## Electrostatics
+- **Method of Images:** https://farside.ph.utexas.edu/teaching/355/Surveyhtml/node85.html
