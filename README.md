@@ -46,5 +46,6 @@ Lot of useful links.
 - **Beats 1:** [Geogebra Link](https://www.geogebra.org/classic/jd6ejhrq)
 - **Beats 2:** [Geogebra Link](https://geogebra.org/classic/uyymmuwc)
 
-## Electrostatics
+## Electrodynamics
 - **Method of Images:** https://farside.ph.utexas.edu/teaching/355/Surveyhtml/node85.html
+- **Solenoid; Variation of Magnetic Field:** [Geogebra Link](https://geogebra.org/classic/eszhbu8r)
