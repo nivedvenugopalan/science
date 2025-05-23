@@ -49,3 +49,5 @@ Lot of useful links.
 ## Electrodynamics
 - **Method of Images:** https://farside.ph.utexas.edu/teaching/355/Surveyhtml/node85.html
 - **Solenoid; Variation of Magnetic Field:** [Geogebra Link](https://geogebra.org/classic/eszhbu8r)
+- **Magnetic Force + Drag Force:** [Geogebra Link](https://geogebra.org/classic/mtwacsx4)
+
